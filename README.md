@@ -1,7 +1,5 @@
-### Hi there 👋
+### Hi , You may reach me and connect me on linked in. 👋
 
-<!--
-**Akshay200114/Akshay200114** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -11,6 +9,6 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...Some Data science internship.
 - 💬 Ask me about ...(My strong Points)
 - 📫 How to reach me: ...[Linked in](https://www.linkedin.com/in/akshay-vasala-3b03411b1/)
-- 😄 Pronouns: ...He/him/his.
+- 😄 Pronouns: ... He/him/his.
 - ⚡ Fun fact: ...Love your work.
 -->
